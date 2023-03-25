@@ -1,0 +1,11 @@
+[package]
+name = "z-mean-adjuster"
+version = "0.2.1"
+authors = ["Severan"]
+edition = "2018"
+
+[dependencies]
+
+
+[dev-dependencies]
+assert_approx_eq = "1.0.0"
